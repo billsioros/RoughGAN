@@ -90,7 +90,7 @@ rich = ">=13.4.2"
 pyinsect = {git = "https://github.com/ggianna/PyINSECT"}
 torch = "2.8.0"
 torchvision = "0.25.0"
-kaleido = "0.4.1"
+kaleido = "1.2.0"
 
 [tool.poetry.group.dev.dependencies]
 python-semantic-release = "*"
