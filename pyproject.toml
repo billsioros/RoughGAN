@@ -88,7 +88,7 @@ ray = ">=2.5.1"
 click = ">=8.1.3"
 rich = ">=13.4.2"
 pyinsect = {git = "https://github.com/ggianna/PyINSECT"}
-torch = "1.13.1"
+torch = "2.8.0"
 torchvision = "0.25.0"
 kaleido = "1.2.0"
 
